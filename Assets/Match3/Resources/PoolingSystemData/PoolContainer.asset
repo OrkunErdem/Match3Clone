@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6979272c52e4c47f4a61631fe6d5c2fe, type: 3}
+  m_Name: PoolContainer
+  m_EditorClassIdentifier: 
+  PoolObjectList:
+  - Name: BasicNode
+    Count: 8
+    Object: {fileID: 5023066393819413398, guid: 143d61f1a2c10e24eb3f4b1707e68d45,
+      type: 3}
+  - Name: RedItem
+    Count: 8
+    Object: {fileID: 7275092399045675879, guid: 5ec8b6bc06c84a7428e6d1091e358e0a,
+      type: 3}
+  - Name: BlueItem
+    Count: 8
+    Object: {fileID: 7275092399045675879, guid: 385c2d8f7a4379149917c16ca57a8f62,
+      type: 3}
+  - Name: GreenItem
+    Count: 8
+    Object: {fileID: 7275092399045675879, guid: 63d820989ca3a01438b1159bb0ea6c5b,
+      type: 3}
+  - Name: YellowItem
+    Count: 8
+    Object: {fileID: 7275092399045675879, guid: 9ef2b0946080a6748923823e57afc06b,
+      type: 3}
